@@ -1,0 +1,14 @@
+.smile-icon span {
+    font-size: 30px;
+}
+
+.icon {
+    width: 180px;
+    height: 180px;
+    cursor: pointer;
+    
+}
+
+.icon:hover {
+    fill: yellowgreen;
+}

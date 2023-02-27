@@ -1,0 +1,20 @@
+.smile-list-conteiner {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+
+.smile-list-conteiner .smile-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.smile-list-conteiner .smile-list.winner {
+    justify-content: center;
+}
